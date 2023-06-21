@@ -1,6 +1,15 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Ankita Jha </p>
+logo: /images/Profile_pic.jpg
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/ankita-jha-69630642/">LinkedIn</a> |
+  <a href="https://github.com/Anki0812">GitHub</a>
+  
+  <br>   
+  I am working as Technical Lead in Merck group, with a total of 10+ experience 
+  in software development and maintanence.
+  I am also persuing Executive Post Graduation in IA/ML from IIITB through Upgrade.
+  <br>
+  </p>
 theme: jekyll-theme-minimal

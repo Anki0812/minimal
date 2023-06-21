@@ -19,6 +19,6 @@ This addition of new fuctionality adition to Numpy Library
 
 And new dummy method is created in a numpy library, but is not merged at the moment.
 
-<center><img src="images/Numpy_image.jpg"/></center>
+<center><img src="images/Numpy_image.png"/></center>
 
 ---
